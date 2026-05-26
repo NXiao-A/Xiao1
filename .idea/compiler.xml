@@ -9,7 +9,6 @@
         <module name="A" />
         <module name="B" />
         <module name="c" />
-        <module name="d" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
